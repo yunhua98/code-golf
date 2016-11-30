@@ -1,0 +1,1 @@
+public class P3{public static void main(String[]a){System.out.print(('b'-'a')+" ("+(')'*('P'-'A'))+") "+('.'*('h'-'a'))+"-"+('I'*'d'+'l'-'a'));}}
